@@ -11,7 +11,7 @@ import static io.trueautomation.client.TrueAutomationHelper.*;
 
 public class exampleTest {
     private WebDriver driver;
-    private By fooBtn = byTa(   "fooBtn");
+    private By fooBtn = byTa("fooBtn");
 
 
     @BeforeTest
